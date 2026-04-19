@@ -1,0 +1,6 @@
+@dotnet_example_clean_arch_with_entity_framework_HostAddress = http://localhost:5130
+
+GET {{dotnet_example_clean_arch_with_entity_framework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

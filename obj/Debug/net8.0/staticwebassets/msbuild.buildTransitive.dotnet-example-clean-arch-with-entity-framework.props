@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\dotnet-example-clean-arch-with-entity-framework.props" />
+</Project>

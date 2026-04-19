@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TPUs+j99ZMwcoDHIPDDvZEgZJumVegLuO1UU3mw3HPs=",
+  "Source": "dotnet-example-clean-arch-with-entity-framework",
+  "BasePath": "_content/dotnet-example-clean-arch-with-entity-framework",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
