@@ -5084,11 +5084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\ProductOrderCRUD\\dotnet-example-clean-arch-with-entity-framework.csproj",
+      "projectUniqueName": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\dotnet-clean-architecture-product-order-api-with-validation\\dotnet-example-clean-arch-with-entity-framework.csproj",
       "projectName": "dotnet-example-clean-arch-with-entity-framework",
-      "projectPath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\ProductOrderCRUD\\dotnet-example-clean-arch-with-entity-framework.csproj",
+      "projectPath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\dotnet-clean-architecture-product-order-api-with-validation\\dotnet-example-clean-arch-with-entity-framework.csproj",
       "packagesPath": "C:\\Users\\NIKHIL\\.nuget\\packages\\",
-      "outputPath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\ProductOrderCRUD\\obj\\",
+      "outputPath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\dotnet-clean-architecture-product-order-api-with-validation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NIKHIL\\AppData\\Roaming\\NuGet\\NuGet.Config",

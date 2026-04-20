@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-example-clean-arch-with-entity-framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac350b4c4a63ccd5cc3aedb3403dd7c0a32cc5b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-example-clean-arch-with-entity-framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-example-clean-arch-with-entity-framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

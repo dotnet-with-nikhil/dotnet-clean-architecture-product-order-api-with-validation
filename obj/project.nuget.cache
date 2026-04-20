@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b08pYhq+Voc=",
+  "dgSpecHash": "lRiVtKOQiaA=",
   "success": true,
-  "projectFilePath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\ProductOrderCRUD\\dotnet-example-clean-arch-with-entity-framework.csproj",
+  "projectFilePath": "D:\\Youtube Channel Examples\\GITHUB-REPOS\\DotNet-Core\\dotnet-clean-architecture-product-order-api-with-validation\\dotnet-example-clean-arch-with-entity-framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NIKHIL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\NIKHIL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
